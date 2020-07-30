@@ -1,1 +1,3 @@
-# 每周总结可以写在这里
+1.学习了gesture手势
+
+2.将animal动画与gesture手势与carousel相结合,形成一个比较完善的carousel
